@@ -43,7 +43,32 @@ A skilled Project Manager with 3+ years of experience leading cross-functional t
 🔗 [excellerentsolutions.com](https://excellerentsolutions.com/)
 
 ---
+### 📁 Projects
+#### [[Digital Garden/Projects/Lomi\|Lomi]] 
+[Playstore](https://play.google.com/store/apps/details?id=com.MuqechaStudios.Lomi&hl=en)
+**Overview:**  _Lomi_ is a narrative-driven mobile game that tackles the issue of catcalling and street harassment in Ethiopian society. Set during the vibrant Timket holiday, the game invites players to experience the everyday challenges faced by women navigating public spaces. It blends culturally grounded storytelling with interactive gameplay to raise awareness and spark conversation around gender-based harassment.
 
+The game was developed by **Muqecha Studios** as part of our mission to create games that make a point — bold, controversial, and conversation-starting.
+
+**Role**: Project Manager, Gameplay Programmer
+**Platform:** Android  
+**Genre:** Third Person Shooter / Awareness  
+**Engine:** Unity  
+**Language:** English (with plans for localization)
+
+#### [[Digital Garden/Projects/Clash of Devs\|Clash of Devs]] 
+[GitHub](https://github.com/Muqecha-Studios/Clash-of-Devs)
+**Overview:**  _Clash of Devs_ is a game developed in 48 hrs at the April 2023 Joy Hack game jam. We were given the task of cloning [Clash of Clans](https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=en). 
+
+The game was developed with [Biruk Yohannes](https://www.linkedin.com/in/birukblend/).
+
+**Role**: Unity Developer
+**Platform:** Windows  
+**Genre:** Narrative Adventure / Awareness  
+**Engine:** Unity  
+**Language:** English
+
+---
 ### 🎓 Education
 
 **Adama Science and Technology University**  
@@ -81,13 +106,7 @@ A skilled Project Manager with 3+ years of experience leading cross-functional t
 ### 🌍 Languages
 
 - **English** — Native or Bilingual
+- **Amharic** — Native or Bilingual
 
 ---
 
-### 📁 Projects / Publications / Volunteering / References
-
-These sections are not currently filled in the resume. You can add relevant details in your garden as they evolve.
-
----
-
-*This resume is part of my [digital garden](/garden), where ideas grow in public.*
