@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden/about-me/resume/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
-## Yohanes Fikru Temam  
+[[yohanes-resume.pdf]] 
 *Strategic Officer · Project Manager · Technical Project Lead*  
 📧 yohanes.fikru@gmail.com  
 🔗 [Telegram: @YohanesFikru](https://t.me/YohanesFikru)  
@@ -10,13 +10,13 @@
 
 ---
 
-### 🧠 Summary
+## 🧠 Summary
 
 A skilled Project Manager with 3+ years of experience leading cross-functional teams in software and game development. Expertise in requirement gathering, project planning, and client communication. Proven ability to manage remote teams and deliver complex projects on time. Strong technical background with a focus on Unity, system integration, and Web 3.0 technologies.
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
 #### **Strategic Officer**  
 **Efuye Gela** · Addis Ababa, Ethiopia  
@@ -27,14 +27,14 @@ A skilled Project Manager with 3+ years of experience leading cross-functional t
 - Organize hackathons and game jams for clients and communities.  
 🔗 [efuyegela.com](https://efuyegela.com/)
 
-#### **Technical Project Manager**  
+### **Technical Project Manager**  
 **Muqecha Studios** · Addis Ababa, Ethiopia  
 *Feb 2023 – Present*  
 - Manage project life cycles from client communication to delivery.  
 - Document and plan custom Unity and web-based solutions.  
 - Coordinate multi-disciplinary teams across Unity, systems, and Web 3.0 tech.
 
-#### **Lead Unity Developer & Project Manager**  
+### **Lead Unity Developer & Project Manager**  
 **Excellerent Solutions** · Remote (Pittsburgh, USA)  
 *Dec 2021 – May 2023*  
 - Managed remote game development teams and client relationships.  
@@ -43,8 +43,8 @@ A skilled Project Manager with 3+ years of experience leading cross-functional t
 🔗 [excellerentsolutions.com](https://excellerentsolutions.com/)
 
 ---
-### 📁 [[Projects\|Projects]]
-#### **Lomi**
+## 📁 [[Projects\|Projects]]
+### **Lomi**
 [Playstore](https://play.google.com/store/apps/details?id=com.MuqechaStudios.Lomi&hl=en)
 **Overview:**  _Lomi_ is a narrative-driven mobile game that tackles the issue of catcalling and street harassment in Ethiopian society. Set during the vibrant Timket holiday, the game invites players to experience the everyday challenges faced by women navigating public spaces. It blends culturally grounded storytelling with interactive gameplay to raise awareness and spark conversation around gender-based harassment.
 
@@ -56,7 +56,7 @@ The game was developed by **Muqecha Studios** as part of our mission to create g
 **Engine:** Unity  
 **Language:** English (with plans for localization)
 
-#### **Clash of Devs**
+### **Clash of Devs**
 [GitHub](https://github.com/Muqecha-Studios/Clash-of-Devs)
 **Overview:**  _Clash of Devs_ is a game developed in 48 hrs at the April 2023 Joy Hack game jam. We were given the task of cloning [Clash of Clans](https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=en). 
 
@@ -69,7 +69,7 @@ The game was developed with [Biruk Yohannes](https://www.linkedin.com/in/birukbl
 **Language:** English
 
 ---
-### 🎓 Education
+## 🎓 Education
 
 **Adama Science and Technology University**  
 **BSc in Computer Science and Engineering**  
@@ -78,7 +78,7 @@ The game was developed with [Biruk Yohannes](https://www.linkedin.com/in/birukbl
 
 ---
 
-### 🏆 Awards
+## 🏆 Awards
 
 - **Best Game Developer of the Year** — ChewataCon Awards (2022)  
 - **Best Graduating Project** — Adama Science and Technology University (2021)  
@@ -87,7 +87,7 @@ The game was developed with [Biruk Yohannes](https://www.linkedin.com/in/birukbl
 
 ---
 
-### 🧩 Skills
+## 🧩 Skills
 
 **Project Management**  
 `Requirement Engineering · Team Leadership · Project Documentation · Client Communication · Risk Management · Agile Methodologies`
@@ -103,7 +103,7 @@ The game was developed with [Biruk Yohannes](https://www.linkedin.com/in/birukbl
 
 ---
 
-### 🌍 Languages
+## 🌍 Languages
 
 - **English** — Native or Bilingual
 - **Amharic** — Native or Bilingual
