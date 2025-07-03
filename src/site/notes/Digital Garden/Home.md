@@ -2,11 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden/home/","tags":["gardenEntry"]}
 ---
 
-# Test 1 2 3 4
-```C#
-if (!true)
-{
-	Debug.Log("Laugh");
-}
-```
-## second test
+Projects
+[[Digital Garden/Projects/Lomi\|Lomi]]
+[[Digital Garden/Projects/Goteb\|Goteb]]
+![MajorJohnProfile.jpg|400](/img/user/Digital%20Garden/_attachments/MajorJohnProfile.jpg)
