@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/digital-garden/about-me/resume/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
-[[yohanes-resume.pdf]] 
+**Get my resume PDF**: [yohanes-resume.pdf](https://drive.google.com/file/d/15WZDgtFQRlgfGmMmmqjc6YwNJyPppq3J/view?usp=drive_link)
+
+---
 *Strategic Officer · Project Manager · Technical Project Lead*  
 📧 yohanes.fikru@gmail.com  
 🔗 [Telegram: @YohanesFikru](https://t.me/YohanesFikru)  
