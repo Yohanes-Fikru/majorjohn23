@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden/about-me/resume/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
-# Yohanes Fikru Temam  
+## Yohanes Fikru Temam  
 *Strategic Officer · Project Manager · Technical Project Lead*  
 📧 yohanes.fikru@gmail.com  
 🔗 [Telegram: @YohanesFikru](https://t.me/YohanesFikru)  
@@ -10,15 +10,15 @@
 
 ---
 
-## 🧠 Summary
+### 🧠 Summary
 
 A skilled Project Manager with 3+ years of experience leading cross-functional teams in software and game development. Expertise in requirement gathering, project planning, and client communication. Proven ability to manage remote teams and deliver complex projects on time. Strong technical background with a focus on Unity, system integration, and Web 3.0 technologies.
 
 ---
 
-## 💼 Experience
+### 💼 Experience
 
-### **Strategic Officer**  
+#### **Strategic Officer**  
 **Efuye Gela** · Addis Ababa, Ethiopia  
 *May 2024 – Present*  
 - Create and implement R&D strategies for internal and external business processes and products.  
@@ -27,14 +27,14 @@ A skilled Project Manager with 3+ years of experience leading cross-functional t
 - Organize hackathons and game jams for clients and communities.  
 🔗 [efuyegela.com](https://efuyegela.com/)
 
-### **Technical Project Manager**  
+#### **Technical Project Manager**  
 **Muqecha Studios** · Addis Ababa, Ethiopia  
 *Feb 2023 – Present*  
 - Manage project life cycles from client communication to delivery.  
 - Document and plan custom Unity and web-based solutions.  
 - Coordinate multi-disciplinary teams across Unity, systems, and Web 3.0 tech.
 
-### **Lead Unity Developer & Project Manager**  
+#### **Lead Unity Developer & Project Manager**  
 **Excellerent Solutions** · Remote (Pittsburgh, USA)  
 *Dec 2021 – May 2023*  
 - Managed remote game development teams and client relationships.  
@@ -44,7 +44,7 @@ A skilled Project Manager with 3+ years of experience leading cross-functional t
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 **Adama Science and Technology University**  
 **BSc in Computer Science and Engineering**  
@@ -53,7 +53,7 @@ A skilled Project Manager with 3+ years of experience leading cross-functional t
 
 ---
 
-## 🏆 Awards
+### 🏆 Awards
 
 - **Best Game Developer of the Year** — ChewataCon Awards (2022)  
 - **Best Graduating Project** — Adama Science and Technology University (2021)  
@@ -62,7 +62,7 @@ A skilled Project Manager with 3+ years of experience leading cross-functional t
 
 ---
 
-## 🧩 Skills
+### 🧩 Skills
 
 **Project Management**  
 `Requirement Engineering · Team Leadership · Project Documentation · Client Communication · Risk Management · Agile Methodologies`
@@ -78,13 +78,13 @@ A skilled Project Manager with 3+ years of experience leading cross-functional t
 
 ---
 
-## 🌍 Languages
+### 🌍 Languages
 
 - **English** — Native or Bilingual
 
 ---
 
-## 📁 Projects / Publications / Volunteering / References
+### 📁 Projects / Publications / Volunteering / References
 
 These sections are not currently filled in the resume. You can add relevant details in your garden as they evolve.
 
