@@ -56,6 +56,8 @@ The game was developed by **Muqecha Studios** as part of our mission to create g
 **Engine:** Unity  
 **Language:** English (with plans for localization)
 
+
+
 #### [[Digital Garden/Projects/Clash of Devs\|Clash of Devs]] 
 [GitHub](https://github.com/Muqecha-Studios/Clash-of-Devs)
 **Overview:**  _Clash of Devs_ is a game developed in 48 hrs at the April 2023 Joy Hack game jam. We were given the task of cloning [Clash of Clans](https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=en). 
