@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/about-me/resume/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/digital-garden/about-me/resume/","dgHomeLink":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 **Get my resume PDF**: [yohanes-resume.pdf](https://drive.google.com/file/d/15WZDgtFQRlgfGmMmmqjc6YwNJyPppq3J/view?usp=drive_link)
