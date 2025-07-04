@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/home/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/digital-garden/home/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 
@@ -14,7 +14,7 @@ Built with Obsidian and a love for messy, evolving ideas.
 Rather than a polished blog, this space is a work-in-progress —  
 you’ll find seeds, sketches, and slow-growing thoughts side by side.
 
-🔗 [Enter the Garden](/garden/)
+🔗 [[Enter the Garden\|Garden Index]] 
 
 **You can find me with the following links** [LinkedIn](https://www.linkedin.com/in/yohanesfikru/) [GitHub](https://github.com/Yohanes-Fikru) [Instagram](https://www.instagram.com/yohanesfikru/) 
 
