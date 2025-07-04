@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/home/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/digital-garden/home/","tags":["gardenEntry"],"dgShowFileTree":true,"dgEnableSearch":true}
 ---
-
 
 # Yohanes Fikru  
 _Game Developer • Studio Co-Founder • Systems Thinker_
