@@ -5,7 +5,7 @@
 Video link: [How To GROW FAST On LinkedIn](https://www.youtube.com/watch?v=3tXVSpImzXk)
 Resource link: 
 
-# ### Summary of Chris Donnelly's LinkedIn Strategy Video
+# Summary of Chris Donnelly's LinkedIn Strategy Video
 
 This video provides a comprehensive guide on how to grow a personal brand on LinkedIn and monetize it, based on Chris Donnelly's personal experience of growing his following from 20,000 to over a million. He emphasizes that while his success wasn't overnight, the strategies he used are repeatable. The video is structured around a five-step framework.
 
